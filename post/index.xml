@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on A Hugo website</title>
-    <link>//localhost:4321/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on A Hugo website</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>test</title>
-      <link>//localhost:4321/2024/10/02/test/</link>
+      <link>/2024/10/02/test/</link>
       <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2024/10/02/test/</guid>
+      <guid>/2024/10/02/test/</guid>
       <description>&lt;h2 id=&#34;r-markdown&#34;&gt;R Markdown&lt;/h2&gt;&#xA;&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;When you click the &lt;strong&gt;Knit&lt;/strong&gt; button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;summary(cars)&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;pre&gt;&lt;code&gt;##      speed           dist       &#xA;##  Min.   : 4.0   Min.   :  2.00  &#xA;##  1st Qu.:12.0   1st Qu.: 26.00  &#xA;##  Median :15.0   Median : 36.00  &#xA;##  Mean   :15.4   Mean   : 42.98  &#xA;##  3rd Qu.:19.0   3rd Qu.: 56.00  &#xA;##  Max.   :25.0   Max.   :120.00&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;h2 id=&#34;including-plots&#34;&gt;Including Plots&lt;/h2&gt;&#xA;&lt;p&gt;You can also embed plots, for example:&lt;/p&gt;</description>
     </item>
   </channel>
